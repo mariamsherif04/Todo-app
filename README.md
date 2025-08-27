@@ -25,3 +25,4 @@ The app allows users to add, edit, complete, and delete tasks with a clean and m
 5. Both lists persist until the app is restarted (in-memory storage by default).  
 
 ---
+## [Watch the Demo Video](https://drive.google.com/file/d/1gLiTNjsti72Intt0RV6mm1faYWVg1m7F/view?usp=sharing)
