@@ -16,19 +16,6 @@ The app allows users to add, edit, complete, and delete tasks with a clean and m
 
 ---
 
-## Project Structure
-
-lib/
-│
-├── main.dart # Entry point of the app
-├── home_page.dart # Main page with navigation between ToDo and Completed
-├── add_task_page.dart # Page for adding a new task
-├── edit_task_page.dart # Page for editing a task
-├── models/
-│ └── task.dart # Task model (title, detail, completed status)
-
----
-
 ## How It Works
 
 1. On the **ToDo page**, tasks are displayed in a list with options to edit or delete.  
